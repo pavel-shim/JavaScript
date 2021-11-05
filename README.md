@@ -1,2 +1,1 @@
-# JavaScript
-JavaScript
+https://pavel-shim.github.io/JavaScript/.
